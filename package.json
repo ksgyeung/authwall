@@ -1,0 +1,13 @@
+{
+  "name": "firewallz",
+  "version": "1.0.0",
+  "main": "src/index.mjs",
+  "license": "AGPLv3",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3",
+    "mmdb-reader": "^1.2.0",
+    "node-color-log": "^9.0.0",
+    "tar": "^6.1.11"
+  }
+}
