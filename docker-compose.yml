@@ -1,4 +1,4 @@
-version: "3.9"  # optional since v1.27.0
+version: "3.5"  # optional since v1.27.0
 services:
   firewallz:
     build: .
@@ -7,3 +7,4 @@ services:
     environment:
       - MAXMIND_KEY=123456
       - PORT=3000
+
