@@ -102,7 +102,7 @@ async function main()
 
     app.listen(PORT, '0.0.0.0', () =>
     {
-        log.info(`firewallz listening on port ${PORT}`);
+        log.info(`authwall listening on port ${PORT}`);
     });
 }
 
